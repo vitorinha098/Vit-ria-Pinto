@@ -29,7 +29,7 @@
 
 ### Web, Cloud e Integrações
 <img align="left" alt="Vercel" title="Vercel" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
-<img align="left" alt="RetellAi" title="RetellAi" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
+<img align="left" alt="RetellAi" title="RetellAi" width="30px" style="padding-right: 10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg](https://www.gohighlevel.com/retellai-97)" />
 
 <br/>
 <br/>
