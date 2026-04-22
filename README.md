@@ -29,8 +29,8 @@
 
 ### Web, Cloud e Integrações
 <img align="left" alt="Vercel" title="Vercel" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
-<img align="left" alt="Stripe" title="Stripe API" width="30px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/stripe/008CDD" />
-<img align="left" alt="ngrok" title="ngrok" width="30px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/ngrok/1F1E37" />
+<img align="left" alt="RetellAi" title="RetellAi" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
+
 <br/>
 <br/>
 
