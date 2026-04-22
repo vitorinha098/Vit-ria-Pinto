@@ -1,10 +1,8 @@
-# Rodrigo Filipe Carriço Francisquinho
+# Vitória Sofia Henriques Pinto 
 
 *Desenvolvedor FullStack*
 
-Olá! Sou o Rodrigo, estudante do 2º ano na licenciatura de Desenvolvimento de Software e Aplicações no ISCTE-Sintra. Tenho um grande interesse nas áreas de Desenvolvimento Web, Bases de Dados e Análise de Dados. 
-
-Durante o meu percurso, já desenvolvi bases de dados complexas tanto em formatos tradicionais como em formatos em estrela e floco de neve para dar ênfase na análise de dados, criei um motor de jogo Voxel em Java, criei sites tanto com Python como também com o conjunto de HTML, JavaScript e CSS e ganhei experiência prática a colocar projetos online com Vercel e a integrar APIs de pagamento como o Stripe. 
+ 
 
 ### Linguagens de Programação e Web
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
