@@ -1,6 +1,8 @@
 # Vitória Sofia Henriques Pinto 
 
 *Desenvolvedor FullStack*
+🎓 2nd Year Software Development & Applications Student @ ISCTE
+Currently focused on deepening my knowledge in Software Engineering and building scalable applications. My academic and technical journey includes:
 
  
 
